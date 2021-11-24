@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Stepik</string>
+    <string name="git_flow">Git flow</string>
 </resources>
